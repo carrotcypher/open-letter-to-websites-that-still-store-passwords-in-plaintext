@@ -22,7 +22,7 @@ Before sending this message to the company in question, you may want to first ad
 > 
 > If you love your business, want to keep your reputation, and want to keep me as a happy customer, I ask that you do what every security professional in the world has directed every database-using company to do since decades ago.
 > 
-> Please don't store my password in plaintext. I look forward to your response. I will in the meantime be adding your service to plaintextoffenders.com to warn the world not to use your service until this has been remedied as every day it goes on is another day a user's account is at risk.
+> Please don't store my password in plaintext. I look forward to your response. I will in the meantime be submitting your company to plaintextoffenders.com to warn the world not to use your service until this has been remedied as every day it goes on is another day a user's account is at risk.
 > 
 > Regards,
 > 
